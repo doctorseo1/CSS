@@ -1,1 +1,25 @@
-h1 {color: red;}
+body {background-color: bisque;}
+
+h1 {
+    text-align: center;
+    color: #EF5B0C;
+}
+
+h2 {
+    text-align: center;
+    color: #003865;
+}
+
+.nav {
+    text-align: center;
+    margin: 2em;
+}
+
+.about-p {
+    color: brown;
+}
+
+.sites {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
